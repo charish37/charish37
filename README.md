@@ -40,11 +40,11 @@ Let’s build something cool together!
   React Native + Firebase powered social app enabling messaging, geolocation sharing, and gamified onboarding.  
   🔹 10+ screens | 🔹 Lazy loading | 🔹 Optimized image upload | 🔹 Tailwind + NativeWind
 
-- 🌐 [**React Portfolio Project**](https://github.com/charish37/React-Portfolio-Project)  
-  A personal portfolio built in React showcasing frontend skills and routing.
+- 🌐 [**Naruto Infinite List**](https://github.com/nadipaca/Naruto-Infinite-List)  
+  The app is built with modern frontend tooling and aims to be a concise, easy-to-read example of how to implement infinite scrolling, lazy loading, and efficient list rendering in a TypeScript React codebase.
 
-- 🛍️ [**React Ecommerce Website**](https://github.com/charish37/React-Ecommerce-Website)  
-  A shopping interface built with reusable components and clean UI/UX.
+- 🛍️ [**Sentiment Analyzer**](https://github.com/charish37/spring-sentiment-analyzer)  
+This repository provides a Spring-based backend that exposes an HTTP API to classify text sentiment (e.g., positive, negative, neutral) and return a confidence score.
 
 - 📊 [**DSA Tutorial**](https://github.com/charish37/DSA-tutorial-)  
   JavaScript-based Data Structures & Algorithms practice notebook.
